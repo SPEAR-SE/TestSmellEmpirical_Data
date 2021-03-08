@@ -1,0 +1,7 @@
+"modelType","feature","OR","X","DF"
+"accumulo _BASE","LOC",0.0811928517438582,62.4211361603047,1
+"accumulo _BASE","pre_bug",0.307456470591324,39.280062868921,1
+"accumulo _BASE","deletedLine",0.027086246937253,40.6811847000772,1
+"accumulo _BASE","fileChurn",0.706258702570008,16.0930355288101,1
+"accumulo _BASE","ts_coupling_prod",0.343151916418336,25.6188832828607,1
+"accumulo _BASE","tt_coupling_prod",0.336687008861681,4.75798379965408,1

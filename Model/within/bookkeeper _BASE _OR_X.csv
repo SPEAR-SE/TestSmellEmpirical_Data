@@ -1,0 +1,6 @@
+"modelType","feature","OR","X","DF"
+"bookkeeper _BASE","LOC",0.530080456481745,101.280003141667,1
+"bookkeeper _BASE","pre_bug",-0.3233364143356,9.11102861966367,1
+"bookkeeper _BASE","codeChurn",0.261955553449362,40.2446960901163,1
+"bookkeeper _BASE","fileChurn",0.610878495650385,8.54287348887419,1
+"bookkeeper _BASE","ts_coupling_prod",0.493094150183672,18.6276497302403,1

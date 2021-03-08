@@ -1,0 +1,7 @@
+"modelType","feature","OR","X","DF"
+"cassandra _BASE","LOC",0.342584178746535,99.118891994148,1
+"cassandra _BASE","pre_bug",0.391829049122029,75.444178928188,1
+"cassandra _BASE","codeChurn",-0.000682003025399168,14.5653848858437,1
+"cassandra _BASE","fileChurn",0.953461338441994,20.4483460776944,1
+"cassandra _BASE","ts_coupling_prod",0.195845279162706,13.0604404558926,1
+"cassandra _BASE","tt_coupling_prod",0.495528332742767,5.8662530886802,1

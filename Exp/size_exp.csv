@@ -1,0 +1,389 @@
+project,contributor,exp,add,delet,Total
+zookeeper,benjamin reed,0,153,74,227
+cxf,ivassile,0,15,0,15
+hive,Mithun Radhakrishnan,0,14,0,14
+cxf,Jonathan S. Fisher,0,189,50,239
+camel,Bogdan Albei,1,6,0,6
+flink,sunjincheng121,1,210,17,227
+wicket,Tomohiro Nagai,1,64,0,64
+karaf,Emily Berk,1,83,0,83
+camel,Nikita Khateev,1,4,4,8
+karaf,Romain Manni-Bucau,1,161,0,161
+karaf,Johannes Utzig,1,33,2,35
+karaf,Guillaume Smet,1,5,1,6
+karaf,Paul Campbell,1,0,36,36
+camel,Tim Hurman,1,361,0,361
+karaf,Lukasz Lech,1,30,2,32
+cxf,Laszlo Hornyak,1,42,0,42
+karaf,Stephen Higgs,1,1,1,2
+camel,Sverker Abrahamsson,1,71,0,71
+camel,Daniel Beland,1,36,9,45
+accumulo,Drew Farris,1,26,0,26
+cxf,Carlos Sierra,1,78,0,78
+hadoop,Sean Busbey,1,4,4,8
+cxf,Evaristo Wychoski Benfatti,2,120,0,120
+cxf,jpoth,2,186,0,186
+karaf,Colm O hEigeartaigh,2,15,3,18
+karaf,VEINHORN,2,5,1,6
+karaf,"Zipay, Matthew",2,92,9,101
+cxf,gyoetam,2,18,2,20
+cassandra,Nate McCall,2,11,0,11
+cxf,Pavol Mederly,2,93,2,95
+karaf,Robert Varga,2,49,3,52
+groovy,Shil Sinha,2,50,0,50
+camel,lboutros@jouve.com,2,7,9,16
+cassandra,Jon Haddad,2,1149,53,1202
+camel,Luca Burgazzoli,2,1722,71,1793
+cxf,Shon Vella,2,13,0,13
+camel,asegarra,2,264,2,266
+camel,Schippers,2,103,0,103
+karaf,James Carman,2,34,21,55
+karaf,James Netherton,3,160,0,160
+zookeeper,Patrick Hunt,3,6534,1697,8231
+camel,Andy Bell,3,17,0,17
+wicket,Manuel Barzi,3,101,18,119
+camel,önder sezgin,3,661,69,730
+camel,pvdbosch,3,46,0,46
+hadoop,yuanbo,3,17,26,43
+camel,Florian Gessner,3,42,1,43
+hadoop,Surendra Singh Lilhore,3,35,2,37
+wicket,kensakurai,3,214,79,293
+cxf,Romain Manni-Bucau,3,62,0,62
+cxf,John Ament,3,283,8,291
+cassandra,Mick Semb Wever,4,602,23,625
+camel,Jason Black,4,177,5,182
+cxf,Adrian Cole,4,68,67,135
+cxf,Thomas Papke,4,46,10,56
+camel,MakotoTheKnight,4,72,0,72
+zookeeper,Raul Gutierrez Segales,4,168,9,177
+karaf,Andrea Cosentino,5,12,2,14
+hive,Adam Szita,5,1,1,2
+cxf,Tadayoshi Sato,5,55,0,55
+camel,Raúl Kripalani,5,33,2,35
+flink,Marton Balassi,5,357,89,446
+karaf,Łukasz Dywicki,5,398,2,400
+cassandra,adelapena,5,96,1,97
+wicket,manuelbarzi,5,510,12,522
+accumulo,Mark Owens,5,100,0,100
+accumulo,Adam J. Shook,5,1,1,2
+camel,marcusmesserkewill,5,68,4,72
+accumulo,milleruntime,6,130,3,133
+hadoop,Nathan Roberts,6,6,6,12
+camel,Johan Mörén,6,30,6,36
+camel,Jonas Waage,6,25,7,32
+hive,Rajesh Balamohan,6,214,67,281
+cxf,Neal Hu,6,54,1,55
+cxf,Tomas Hofman,7,83,0,83
+camel,Gareth Healy,7,2,2,4
+hive,Amareshwari Sriramadasu,7,3,0,3
+cxf,Alexey Markevich,7,53,19,72
+camel,Roland Huß,8,169,87,256
+hadoop,bibinchundatt,8,225,5,230
+camel,Aurélien Pupier,8,17,23,40
+cassandra,Aleksey Yeshchenko,8,1535,148,1683
+hadoop,Nandakumar,8,476,20,496
+camel,Pontus Ullgren,8,390,3,393
+camel,Tom Cunningham,8,124,77,201
+zookeeper,Mohammad Arshad,8,17,543,560
+camel,Hiram Chirino,9,27,2,29
+wicket,Artur Michałowski,9,78,2,80
+cxf,jimma,10,112,10,122
+camel,Sezgin,10,15,76,91
+cxf,amarkevich,10,68,29,97
+camel,Paolo Antinori,10,21,0,21
+camel,Olivier Antibi,11,366,851,1217
+flink,Gary Yao,12,263,100,363
+camel,Sergey Beryozkin,13,954,6,960
+cassandra,Joel Knighton,13,17,3,20
+hive,Mohit Sabharwal,13,724,84,808
+hive,Naveen Gangam,14,239,55,294
+cxf,Francesco Chicchiriccò,14,17,17,34
+camel,Thomas Demande,14,103,2,105
+hadoop,Sidharta S,14,362,33,395
+wicket,Maxim Solodovnik,15,90,61,151
+flink,Thomas Weise,15,94,2,96
+cassandra,Andrés de la Peña,15,1363,52,1415
+hive,Dmitry Tolpeko,15,10,0,10
+camel,Ramu,16,219,83,302
+camel,Bob Gaudaen,16,243,102,345
+hadoop,Ajay Kumar,16,40,1,41
+cassandra,Stefan Podkowinski,16,146,4,150
+hive,Janaki Lahorani,17,3,5,8
+hive,Chaoyu Tang,18,1588,23,1611
+bookkeeper,cguttapalem,18,628,20,648
+kafka,Joel Koshy,20,144,32,176
+cxf,Andriy Redko,20,348,3,351
+flink,Kostas Kloudas,20,1136,28,1164
+hive,djaiswal,20,23,17,40
+hive,Mithun RK,20,296,51,347
+camel,Scott Cranton,20,809,0,809
+wicket,Pedro Santos,20,90,0,90
+groovy,danielsun1106,21,597,62,659
+hadoop,Chris Trezzo,22,1599,201,1800
+flink,Xingcan Cui,22,680,0,680
+hive,Hari Subramaniyan,22,5,3,8
+cxf,Dennis Kieselhorst,22,776,401,1177
+hadoop,Vinod Kumar Vavilapalli (I am also known as @tshooter.),23,18,27,45
+accumulo,Ivan Bella,24,461,31,492
+camel,nferraro,25,90,7,97
+groovy,Daniel Sun,25,853,809,1662
+hive,Rui Li,25,869,173,1042
+hive,sankarh,25,72,10,82
+cassandra,Dikang Gu,26,109,10,119
+zookeeper,Alexander Shraer,26,699,392,1091
+accumulo,Ed Coleman,26,65,0,65
+bookkeeper,jiazhai,28,723,184,907
+hive,Andrew Sherman,28,125,37,162
+accumulo,Dave Marion,28,52,9,61
+camel,Viral Gohel,30,10,11,21
+camel,Tadayoshi Sato,30,5,5,10
+hive,Chao Sun,30,457,32,489
+hive,Thejas M Nair,31,2882,713,3595
+camel,Colm O hEigeartaigh,32,42,39,81
+camel,Franz Forsthofer,32,1768,5,1773
+wicket,Tobias Soloschenko,34,147,62,209
+camel,Andrea Tarocchi,34,150,4,154
+hadoop,Jonathan Hung,34,5781,654,6435
+kafka,Gwen Shapira,35,902,119,1021
+kafka,Colin Patrick McCabe,35,155,1,156
+hadoop,Xuan Gong,35,240,168,408
+cxf,John D. Ament,36,29,0,29
+cassandra,Jay Zhuang,36,369,2,371
+hadoop,Miklos Szegedi,37,151,91,242
+hadoop,Ray Chiang,38,134,24,158
+camel,Sami Nurminen,40,25,3,28
+hadoop,Sean Mackrory,41,671,99,770
+hive,Yongzhi Chen,41,628,108,736
+hadoop,Hanisha Koneru,42,360,55,415
+cassandra,Josh McKenzie,43,296,66,362
+zookeeper,Andor Molnar,44,625,0,625
+hive,Teddy Choi,44,106,27,133
+hadoop,Rakesh Radhakrishnan,45,31,13,44
+hive,Gopal V,45,1337,48,1385
+bookkeeper,eolivelli,45,1199,9,1208
+groovy,John Wagenleitner,45,2502,257,2759
+hadoop,ChenSammi,45,103,145,248
+hive,Vineet Garg,46,2155,829,2984
+camel,William Collins,47,120,10,130
+flink,Kurt Young,49,23,1,24
+kafka,Dong Lin,49,1916,1458,3374
+bookkeeper,Enrico Olivelli,50,3990,542,4532
+hadoop,Aaron Fabbri,51,380,1015,1395
+zookeeper,Abraham Fine,51,2171,197,2368
+cassandra,Carl Yeksigian,54,67,4,71
+camel,Kevin Earls,54,164,164,328
+hadoop,Vrushali C,56,51,6,57
+camel,Stephan Siano,56,2313,80,2393
+cxf,Andy McCright,56,2602,529,3131
+cassandra,Jeff Jirsa,58,2014,369,2383
+cassandra,Paulo Motta,59,4214,637,4851
+cxf,Jason Pell,60,60,30,90
+karaf,Grzegorz Grzybek,61,2085,148,2233
+karaf,Stephen Kitt,62,571,825,1396
+hadoop,Konstantinos Karanasos,65,491,186,677
+camel,Bilgin Ibryam,65,3663,17,3680
+kafka,Jiangjie Qin,65,1181,124,1305
+kafka,Manikumar Reddy,67,150,6,156
+hive,Anishek Agarwal,69,1946,663,2609
+camel,Freeman Fang,70,1217,11,1228
+cassandra,T Jake Luciani,71,932,102,1034
+hadoop,Márton Elek,73,301,2,303
+hive,Deepak Jaiswal,74,733,473,1206
+cxf,Andrei Shakirin,78,104,6,110
+hive,Slim Bouguerra,79,12,40,52
+hadoop,Manoj Govindassamy,79,2745,142,2887
+wicket,Carl-Eric Menzel,79,1006,41,1047
+hive,ctang,82,3639,893,4532
+zookeeper,Michael Han,83,6328,481,6809
+hive,Ferdinand Xu,86,3497,1692,5189
+camel,jpoth,87,601,1,602
+karaf,Freeman Fang,89,553,277,830
+groovy,sunlan,91,2784,109,2893
+flink,Chesnay Schepler,95,2360,1295,3655
+zookeeper,Camille Fournier,96,598,15,613
+cxf,Alessio Soldano,97,6,0,6
+cassandra,Jason Brown,97,9173,1922,11095
+camel,Arno Noordover,98,49,0,49
+hive,Sahil Takiar,102,3193,439,3632
+cassandra,mck,106,72,44,116
+hadoop,Jitendra Pandey,107,921,53,974
+cassandra,Tyler Hobbs,108,651,357,1008
+flink,vasia,109,119,0,119
+camel,onders86,111,2448,37,2485
+hadoop,Chen Liang,112,578,299,877
+hadoop,John Zhuge,113,948,25,973
+cassandra,Sam Tunnicliffe,116,533,58,591
+hive,Sergio Pena,121,5462,1832,7294
+bookkeeper,Matteo Merli,124,1818,333,2151
+hive,Carl Steinbach,124,995,16,1011
+camel,onders,132,297,51,348
+hadoop,Bharat Viswanadham,134,9,20,29
+cassandra,Alex Petrov,138,8349,7216,15565
+wicket,Pedro Henrique Oliveira dos Santos,140,2636,1332,3968
+hadoop,Konstantin V Shvachko,141,2803,1247,4050
+camel,James Netherton,141,873,236,1109
+cassandra,Benjamin Lerer,142,11799,1392,13191
+cassandra,Blake Eggleston,147,2366,297,2663
+camel,Gregor Zurowski,153,288,95,383
+hadoop,Mukul Kumar Singh,155,197,16,213
+hadoop,Yufei Gu,156,1285,542,1827
+hive,Szehon Ho,156,982,18,1000
+hive,Daniel Dai,157,7115,1528,8643
+flink,kl0u,166,2409,593,3002
+hadoop,Sammi Chen,171,2486,1047,3533
+hadoop,Yongjun Zhang,173,667,33,700
+hadoop,Ming Ma,175,139,87,226
+zookeeper,fpj,177,1692,217,1909
+cassandra,Pavel Yaskevich,184,736,633,1369
+flink,gyao,189,593,67,660
+camel,Antonin Stefanutti,189,296,22,318
+hive,Peter Vary,189,16991,1573,18564
+cassandra,Branimir Lambov,189,514,172,686
+cassandra,Yuki Morishita,191,406,227,633
+hadoop,Carlo Curino,191,15288,948,16236
+camel,Grzegorz Grzybek,193,456,34,490
+hive,Aihua Xu,195,4486,1794,6280
+hive,Vaibhav Gumashta,196,7494,2677,10171
+cassandra,Marcus Eriksson,200,7978,596,8574
+wicket,Emond Papegaaij,200,91,112,203
+cxf,Freeman Fang,204,4485,1411,5896
+hadoop,Virajith Jalaparti,207,3628,491,4119
+bookkeeper,Jia Zhai,207,11718,3012,14730
+cassandra,Ariel Weisberg,209,4282,1095,5377
+hadoop,Brahma Reddy Battula,211,4924,146,5070
+hadoop,Naganarasimha,211,0,9,9
+hadoop,Eric Payne,212,1510,794,2304
+camel,Dmitry Volodin,215,1666,241,1907
+flink,Piotr Nowojski,218,2680,2959,5639
+cxf,Jim Ma,219,38,2,40
+hive,Sankar Hariappan,222,10352,4587,14939
+hive,Pengcheng Xiong,223,3669,2003,5672
+camel,Tomohisa Igarashi,224,1310,117,1427
+flink,Dawid Wysakowicz,228,4567,1715,6282
+hive,Vihang Karajgaonkar,229,5298,241,5539
+flink,twalthr,238,2510,535,3045
+hadoop,Daniel Templeton,239,813,204,1017
+bookkeeper,Ivan Kelly,248,2458,1381,3839
+hive,sergey,249,9222,1740,10962
+hadoop,Allen Wittenauer,251,79,0,79
+flink,Timo Walther,268,5228,2018,7246
+hadoop,Daryn Sharp,268,536,0,536
+cxf,reta,277,8952,908,9860
+hadoop,Haibo Chen,280,4873,2356,7229
+camel,Dhiraj Bokde,281,810,50,860
+hive,Gunther Hagleitner,281,586,196,782
+hadoop,Wei-Chiu Chuang,283,1137,447,1584
+hive,Wei Zheng,285,9733,8554,18287
+flink,Maximilian Michels,288,4518,328,4846
+camel,Pascal Schumacher,292,1250,999,2249
+kafka,Rajini Sivaram,294,10810,1345,12155
+cassandra,Robert Stupp,295,5606,3447,9053
+hadoop,Weiwei Yang,297,4330,1287,5617
+cassandra,Dave Brosius,304,198,180,378
+kafka,Ewen Cheslack-Postava,318,18455,4023,22478
+hive,Zoltan Haindrich,322,8062,3625,11687
+hive,Siddharth Seth,326,3985,2512,6497
+cassandra,Stefania Alborghetti,330,2505,339,2844
+hive,Xuefu Zhang,348,169,5,174
+hive,Owen O'Malley,354,17735,15128,32863
+accumulo,Mike Miller,364,2770,2560,5330
+hive,Jason Dere,367,3224,225,3449
+karaf,Jean-Baptiste Onofré,370,6433,3205,9638
+hadoop,Chris Douglas,374,7301,1604,8905
+hadoop,Eric Yang,377,2056,906,2962
+hadoop,Nanda kumar,378,470,52,522
+hadoop,Xuan,381,416,23,439
+kafka,Ismael Juma,382,18592,4145,22737
+flink,kkloudas,382,13732,3448,17180
+hadoop,Mingliang Liu,383,6,2,8
+camel,Zoran Regvart,390,8279,3033,11312
+hadoop,Yiqun Lin,390,4632,39,4671
+accumulo,Mike Walch,421,533,569,1102
+groovy,Cedric Champeau,421,17,20,37
+karaf,Christian Schneider,427,1574,1775,3349
+wicket,Sven Meier,440,3182,2559,5741
+hadoop,Lei Xu,441,1006,231,1237
+flink,Gyula Fora,441,24,1,25
+hadoop,Billie Rinaldi,448,1189,861,2050
+hadoop,Kai Zheng,449,1735,179,1914
+hadoop,Rohith Sharma K S,455,57140,22662,79802
+hive,Brock Noland,460,66,21,87
+flink,Tzu-Li (Gordon) Tai,463,24509,12744,37253
+cxf,Christian Schneider,467,779,1227,2006
+hive,Sergey Shelukhin,480,1488,1013,2501
+hive,Jesus Camacho Rodriguez,497,6508,4882,11390
+hadoop,Robert Kanter,505,2678,1008,3686
+kafka,Jun Rao,511,4192,1023,5215
+hive,Thejas Nair,536,358,44,402
+hadoop,Subru Krishnan,552,7597,3011,10608
+camel,Nicola Ferraro,584,8210,1056,9266
+hadoop,Xiao Chen,588,7475,1674,9149
+hive,Eugene Koifman,590,14411,3469,17880
+hadoop,Xiaoyu Yao,600,7116,1443,8559
+camel,Christian Schneider,606,45,45,90
+camel,Quinn Stevenson,608,10284,4563,14847
+hadoop,Zhe Zhang,608,1085,356,1441
+hadoop,Varun Saxena,615,80351,19746,100097
+hive,Sushanth Sowmyan,622,2690,803,3493
+hadoop,Sunil G,632,5332,35514,40846
+kafka,Jason Gustafson,639,28725,7342,36067
+hadoop,Vinayakumar B,642,195,35,230
+flink,Nico Kruber,643,2301,1434,3735
+hadoop,Tsz-Wo Nicholas Sze,670,1115,148,1263
+zookeeper,Rakesh Radhakrishnan,671,582,43,625
+hive,Matt McCline,674,30641,6045,36686
+accumulo,Josh Elser,682,550,44,594
+kafka,Damian Guy,683,12431,5724,18155
+cassandra,Aleksey Yeschenko,711,4271,2623,6894
+camel,Jonathan Anstey,731,705,42,747
+flink,Fabian Hueske,769,9902,2464,12366
+flink,Greg Hogan,784,12681,4189,16870
+flink,Stefan Richter,794,30059,14459,44518
+flink,Ufuk Celebi,813,21788,7193,28981
+groovy,Paul King,858,160,40,200
+hadoop,Arun Suresh,860,13387,3108,16495
+wicket,Andrea Del Bene,881,776,457,1233
+hadoop,Junping Du,896,3819,1310,5129
+groovy,paulk,909,1265,472,1737
+kafka,Guozhang Wang,918,72600,27749,100349
+kafka,Matthias J. Sax,918,9319,3134,12453
+hadoop,Inigo Goiri,941,17491,249,17740
+karaf,Guillaume Nodet,949,2623,698,3321
+flink,Robert Metzger,963,1091,721,1812
+camel,lburgazzoli,979,29277,3465,32742
+accumulo,Keith Turner,1007,4358,617,4975
+hadoop,Sangjin Lee,1056,388,0,388
+hadoop,Kihwal Lee,1065,5111,726,5837
+hive,Prasanth Jayachandran,1114,21434,6368,27802
+flink,Aljoscha Krettek,1138,46527,14567,61094
+camel,Daniel Kulp,1174,134,14,148
+hadoop,Steve Loughran,1285,15422,4395,19817
+cassandra,Sylvain Lebresne,1320,2494,3877,6371
+hive,Ashutosh Chauhan,1382,10588,2932,13520
+flink,zentol,1405,34446,12930,47376
+hadoop,Jason Lowe,1579,9599,2044,11643
+hadoop,Andrew Wang,1582,2888,1868,4756
+hadoop,Wangda Tan,1612,13433,2182,15615
+camel,aldettinger,1758,4839,4370,9209
+hadoop,Jian He,1907,611,380,991
+hadoop,Anu Engineer,2038,5048,1649,6697
+hadoop,Akira Ajisaka,2130,709,620,1329
+camel,Willem Jiang,2148,1053,110,1163
+flink,Till,2351,518,300,818
+hadoop,Arpit Agarwal,2368,4173,1351,5524
+accumulo,Christopher Tubbs,2528,11927,7977,19904
+bookkeeper,Sijie Guo,2545,86369,34213,120582
+wicket,Martin Tzvetanov Grigorov,2651,3521,1474,4995
+hive,Alan Gates,3041,14654,13575,28229
+flink,Stephan Ewen,3098,59800,19906,79706
+camel,Babak Vahdat,3233,2094,2152,4246
+flink,Till Rohrmann,3456,94960,34825,129785
+camel,Andrea Cosentino,3587,53354,18099,71453
+wicket,Martijn Dashorst,4219,404,27,431
+cxf,Colm O hEigeartaigh,4680,57371,44523,101894
+cxf,Sergey Beryozkin,4752,17916,6350,24266
+cxf,Daniel Kulp,8767,9104,6338,15442
+camel,Guillaume Nodet,9122,20004,73736,93740
+camel,Christian Mueller,9974,295,43,338
+camel,cmueller,10114,103,0,103
+camel,Claus Ibsen,24339,109177,17644,126821
